@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549478183 source:c:\users\russm\desktop\super haxor\compsci\idlemayb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
